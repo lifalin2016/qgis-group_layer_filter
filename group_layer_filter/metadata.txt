@@ -1,0 +1,19 @@
+[general]
+name=Group Layer Filter
+qgisMinimumVersion=3.0
+description=Apply one filter expression to every vector layer inside a layer tree group, via a right-click context menu on the group.
+version=1.0
+author=Lars Nielsen, LifaDigital and Claude AI
+email=lars.nielsen@lifadigital.dk
+
+about=Right-click a layer group in the Layers panel and choose "Set Filter on Group Layers..." to apply an identical attribute filter (subset string) to every vector layer in that group, including nested subgroups. Choosing the entry again pre-fills the dialog with the group's current filter, and clearing the text box removes the filter from all layers in the group.
+
+tracker=
+repository=
+homepage=https://www.lifadigital.dk
+tags=layer,group,layergroup
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
+server=False
