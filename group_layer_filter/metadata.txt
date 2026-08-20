@@ -8,8 +8,8 @@ email=lars.nielsen@lifadigital.dk
 
 about=Right-click a layer group in the Layers panel and choose "Set Filter on Group Layers..." to apply an identical attribute filter (subset string) to every vector layer in that group, including nested subgroups. Choosing the entry again pre-fills the dialog with the group's current filter, and clearing the text box removes the filter from all layers in the group.
 
-tracker=https://github.com/lifalin2016/qgis-group_layer_filter/tree/main/group_layer_filter/issues
-repository=https://github.com/lifalin2016/qgis-group_layer_filter/tree/main/group_layer_filter
+tracker=https://github.com/lifalin2016/qgis-group_layer_filter/issues
+repository=https://github.com/lifalin2016/qgis-group_layer_filter
 homepage=https://www.lifadigital.dk
 tags=layer,group,layergroup
 category=Vector
